@@ -36,7 +36,9 @@ utc_offsets=[1*60*60]
 db_name='Lille'  #Use the city name
 geocode_name="Lille, France" ### To obtain location coordinates
 label_radius=10 #miles
-geo_location = getGeoCode(geocode_name)
+#geo_location = getGeoCode(geocode_name)
+geo_location = (50.6292,3.0573)
+
 #####################################################################################
 #####  Location terms likely to be found in profile description
 
