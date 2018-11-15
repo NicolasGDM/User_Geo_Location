@@ -13,9 +13,11 @@ To run get_ULDS.py, you must redefine the location_terms characteristic of the c
 ![alt text](https://github.com/MITSocialNetworksThinkTank/User_Geo_Location/blob/master/miscellaneous/city_name_variations.png)
 
 
-Similarly, language, UTC offset and geocode name ought to be tailored to your target location.
+Similarly, language, UTC offset, geocode name and corresponding geo code (latitude,longitude) ought to be tailored to your target location.
 
 ![alt text](https://github.com/MITSocialNetworksThinkTank/User_Geo_Location/blob/master/miscellaneous/location_information.png)
+
+![alt text](https://github.com/MITSocialNetworksThinkTank/User_Geo_Location/blob/master/miscellaneous/geoLoc_tuple.png)
 
 Finally, you'll need to manually search for a small sample of seed users you know are in the location for sure, and update the following:
 
