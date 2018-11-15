@@ -19,8 +19,7 @@ Similarly, language, UTC offset, geocode name ought to be tailored to your targe
 
 As gmplot is undergoing changes, the updated version of the code asks you to fill up the geolocation paramater with the tuple (latitude,longitude), which you can find on google for you target location. 
 
-![alt text]
-(https://github.com/MITSocialNetworksThinkTank/User_Geo_Location/blob/master/miscellaneous/geoLoc_tuple.png)
+![alt text](https://github.com/MITSocialNetworksThinkTank/User_Geo_Location/blob/master/miscellaneous/geoLoc_tuple)
 
 Finally, you'll need to manually search for a small sample of seed users you know are in the location for sure, and update the following:
 
