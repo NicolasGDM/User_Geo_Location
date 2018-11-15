@@ -13,9 +13,11 @@ To run get_ULDS.py, you must redefine the location_terms characteristic of the c
 ![alt text](https://github.com/MITSocialNetworksThinkTank/User_Geo_Location/blob/master/miscellaneous/city_name_variations.png)
 
 
-Similarly, language, UTC offset, geocode name and corresponding geo code (latitude,longitude) ought to be tailored to your target location.
+Similarly, language, UTC offset, geocode name ought to be tailored to your target location.
 
 ![alt text](https://github.com/MITSocialNetworksThinkTank/User_Geo_Location/blob/master/miscellaneous/location_information.png)
+
+As gmplot is undergoing changes, the updated version of the code asks you to fill up the geolocation paramater with the tuple (latitude,longitude), which you can find on google for you target location. 
 
 ![alt text](https://github.com/MITSocialNetworksThinkTank/User_Geo_Location/blob/master/miscellaneous/geoLoc_tuple.png)
 
